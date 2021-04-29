@@ -1,8 +1,7 @@
-import React from 'react';
 import logo from './crystal-ball.png';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <header className="App-header">
